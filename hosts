@@ -1,0 +1,16 @@
+[localhost]
+localhosts
+
+[web_servers]
+192.168.56.107
+192.168.56.105
+
+[db_servers]
+192.168.56.108
+192.168.56.105
+
+[file_servers]
+192.168.56.107
+
+[workstations]
+192.168.56.108
